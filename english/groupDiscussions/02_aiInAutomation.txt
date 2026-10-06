@@ -1,0 +1,56 @@
+// AI in Education (Impact of AI on Student Learning) - Discussion Notes & Speaking Script
+
+/* 
+ * 1. INTRODUCTION (Shuruaat kaise karni hai)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to ye bolta:
+ */
+"Hello everyone. Today's topic is Artificial Intelligence in Education. AI is 
+rapidly changing how students learn and how teachers educate. In my view, AI is 
+a powerful tool that can greatly enhance learning if used responsibly."
+
+
+/* 
+ * 2. ADVANTAGES / PROS (Fayde kya bolne hain)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to ye points rakhta:
+ */
+// Point A: Personalized Learning
+"First, AI provides personalized learning. It adapts to each student's pace, 
+helping them understand complex concepts through customized explanations and examples."
+
+// Point B: 24/7 Availability
+"Second, AI tools act like a personal tutor available 24/7. Students can ask 
+doubts anytime, get instant feedback, and practice problem-solving at their convenience."
+
+// Point C: Efficiency for Teachers
+"Third, it helps teachers automate repetitive tasks like grading and administrative 
+work, giving them more time to focus on teaching and guiding students."
+
+
+/* 
+ * 3. DISADVANTAGES / CHALLENGES (Nuksan ya Dikkat kya hoti hai)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to ye flaws point out karta:
+ */
+// Point A: Over-dependence & Reduced Critical Thinking
+"However, the biggest risk is over-dependence. If students rely on AI to write 
+their code, essays, or solve every problem, their critical thinking and creativity will suffer."
+
+// Point B: Lack of Emotional Intelligence
+"Also, AI cannot replace the human element in teaching. Empathy, mentorship, 
+and real-life guidance from a human teacher are crucial for holistic development."
+
+// Point C: Quality & Accuracy Issues
+"Lastly, AI can sometimes generate incorrect or biased information, so students 
+must verify facts rather than blindly trusting the output."
+
+
+/* 
+ * 4. CONCLUSION (End kaise karna hai)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to final stance ye leta:
+ */
+"To conclude, AI should be viewed as an assistant, not a replacement for thinking. 
+When used to clear doubts and speed up learning rather than to skip effort, AI can be 
+an incredible asset for education."
