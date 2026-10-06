@@ -1,0 +1,70 @@
+/*
+GD TOPIC:
+"AI & Automation: Will Artificial Intelligence replace entry-level
+software jobs or make developers more productive?"
+
+I think AI is more likely to CHANGE entry-level software jobs
+than completely REPLACE them.
+
+If we look at software development today, AI tools can already
+help developers write code, find bugs, generate test cases,
+explain code, and even build small applications.
+
+So, obviously, some of the repetitive tasks that were earlier
+given to junior developers can now be done much faster with AI.
+
+Because of this, I do think there could be fewer opportunities
+for developers whose main skill is simply writing basic or
+repetitive code.
+
+Companies may expect a fresher to do more than just write code.
+They may want someone who can understand a problem, design a
+solution, use AI tools effectively, verify the output, and take
+responsibility for the final product.
+
+But I don't think that means entry-level developers will disappear.
+
+Software development is not only about writing code.
+
+Developers need to understand business requirements, communicate
+with teammates, make decisions, debug unexpected problems, and
+understand whether the solution actually makes sense.
+
+AI can generate code, but a human still needs to decide whether
+that code is correct, secure, maintainable, and suitable for the
+actual problem.
+
+In fact, AI can make developers much more productive.
+
+A fresher who knows how to use AI properly may be able to learn
+technologies faster, understand unfamiliar code, and complete
+tasks more efficiently than before.
+
+However, there is one important concern:
+
+HOW WILL FRESHERS GAIN EXPERIENCE IF AI HANDLES ALL THE BASIC TASKS?
+
+Traditionally, junior developers learned by working on small
+bugs, simple features, testing, and maintenance.
+
+If those opportunities are automated, companies and educational
+institutions may need to find new ways for beginners to develop
+practical skills.
+
+So, in my opinion, the future is probably not:
+
+"AI versus developers."
+
+It is more likely to be:
+
+"Developers who use AI versus developers who don't."
+
+AI will certainly automate some entry-level tasks, but it can
+also create opportunities for developers who develop stronger
+problem-solving, system-design, communication, and AI-assisted
+development skills.
+
+So I would say AI is unlikely to completely replace entry-level
+software jobs, but it WILL RAISE THE EXPECTATIONS from entry-level
+developers and CHANGE WHAT BEING A GOOD DEVELOPER MEANS.
+*/
