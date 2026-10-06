@@ -1,0 +1,58 @@
+// Remote Work (Work From Home) - Discussion Notes & Speaking Script
+
+/* 
+ * 1. INTRODUCTION (Shuruaat kaise karni hai)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to ye bolta:
+ */
+"Hello everyone. Today's topic is Remote Work. In simple terms, remote work 
+means working from home or any location outside a traditional office setting. 
+In my opinion, remote work is a mix of great opportunities and a few genuine 
+challenges that every professional needs to balance."
+
+
+/* 
+ * 2. ADVANTAGES / PROS (Fayde kya bolne hain)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to ye points rakhta:
+ */
+// Point A: Time Saving
+"First, it saves a lot of time and energy because there is no daily commute. 
+You don't get stuck in traffic, which reduces daily stress."
+
+// Point B: Flexibility
+"Second, it gives flexibility. You can manage your personal schedule alongside 
+your tasks, which helps in maintaining a better work-life balance."
+
+// Point C: Global Opportunities
+"Third, location is no longer a barrier. Companies can hire talent from anywhere 
+in the world, and employees can work for international companies without moving."
+
+
+/* 
+ * 3. DISADVANTAGES / CHALLENGES (Nuksan ya Dikkat kya hoti hai)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to ye flaws point out karta:
+ */
+// Point A: Blurring Boundaries
+"However, the biggest challenge is that work-life boundaries get blurred. 
+When your office is at home, you often end up working extra hours and face burnout."
+
+// Point B: Lack of Social Interaction
+"Also, there is a lack of face-to-face team bonding. Working alone for long 
+hours can lead to isolation and communication gaps."
+
+// Point C: Self-Discipline Needed
+"Lastly, remote work requires a high level of self-discipline and time management. 
+Home distractions can easily affect productivity if you're not focused."
+
+
+/* 
+ * 4. CONCLUSION (End kaise karna hai)
+ * ----------------------------------------------------
+ * Tu mere jagah hota to final stance ye leta:
+ */
+"To conclude, while remote work offers unmatched flexibility, a pure remote 
+setup isn't ideal for everyone. A Hybrid Model—where people work a few days 
+from home and a few days from the office—is the most practical solution for 
+the future."
